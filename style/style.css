@@ -1,0 +1,9 @@
+/* Nav Style */
+
+.nav-search{
+    border: 2px solid grey;
+    border-radius: 12px;
+    width: 400px;
+    padding: 3px 15px;
+    margin-left: 100px;
+}
