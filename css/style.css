@@ -1,0 +1,75 @@
+/* login Form style */
+.main-login{
+    border: 1px solid grey;
+    height: 450px;
+    border-radius: 10px;
+}
+
+.log-detail{
+    font-size: 20px;
+    /* padding-left: 27px; */
+    padding: 1px 23px;
+    font-weight: 500;
+   
+}
+.p-log{
+    padding-top: 5px;    
+    margin-bottom: 60px;
+}
+.google{
+    margin-bottom: 15px;
+}
+.Facebook{
+    margin-bottom: 15px;
+}
+.Email{
+    margin-bottom: 80px;
+}
+.style-register{
+    text-decoration: none !important;
+    color: black !important;
+    border: 1px solid grey;
+    border-radius: 12px;
+    padding: 5px 50px;
+    margin-left: 30px;
+}
+.g-fbe{
+ 
+}
+.style-login{
+    text-decoration: none !important;
+    color: black !important;
+    justify-content: center;
+    border: 1px solid grey;
+    padding: 5px 10px;
+    border-radius: 12px;
+    margin-left: 35px;
+    
+}
+.font-login{
+    font-size: 15px;
+    font-weight: 500;
+    padding: 1px 40px;
+}
+.g-style{
+    font-size: 16px;
+ 
+    width: 30px;
+}
+.style-fb{
+    text-decoration: none !important;
+    color: black !important;
+    border: 1px solid grey;
+    border-radius: 12px; 
+    margin-left: 35px;
+    padding: 5px 10px;
+
+}
+.font-fb{
+    font-size: 15px;
+    font-weight: 500;
+    padding: 1px 32px;
+}
+.register-provider{
+
+}
