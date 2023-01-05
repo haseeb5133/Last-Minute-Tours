@@ -1,4 +1,21 @@
 /* login Form style */
+.mark-t{
+    text-decoration: none !important;
+    color: black !important;
+}
+ .mark {
+    padding: 0.2em;
+    /* background-color: #fcf8e3; */
+}
+.btn-xmark{
+    float: right;
+}
+.mark-color{
+    font-size: 20px;
+    padding-right: 6px;
+    padding-top: 3px;
+    background-color: white !IMPORTANT
+}
 .main-login{
     border: 1px solid grey;
     height: 450px;
@@ -30,8 +47,8 @@
     color: black !important;
     border: 1px solid grey;
     border-radius: 12px;
-    padding: 5px 50px;
-    margin-left: 30px;
+    padding: 5px 40px;
+    margin-left: 36px;
 }
 .g-fbe{
  
@@ -70,6 +87,25 @@
     font-weight: 500;
     padding: 1px 32px;
 }
-.register-provider{
+.style-em{
+    text-decoration: none !important;
+    color: black !important;
+    border: 1px solid grey;
+    border-radius: 12px; 
+    margin-left: 35px;
+    padding: 5px 10px;
+}
+.font-em{
+    font-size: 15px;
+    font-weight: 500;
+    padding: 1px 49px;
+}
+.style-term{
+    font-size: 10px;
+    text-align: center;
+    padding-top: 45px;
+    font-weight: 700;
+}
+.term-policy{
 
 }
